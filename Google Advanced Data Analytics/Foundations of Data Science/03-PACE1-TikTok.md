@@ -53,11 +53,25 @@ Task 3 - Understand the data: En esta tarea, comprenderás los datos y comunicar
 
 ### PACE: Plan Stage
 
-- ¿Cómo puede usted prepararse mejor para comprender y organizar la información proporcionada?
+¿Cómo puede usted prepararse mejor para comprender y organizar la información proporcionada?
 
-- ¿Qué libros de códigos de seguimiento y autoevaluación le ayudarán a realizar este trabajo?
+- Clarificar objetivo y métricas de éxito con stakeholders.
+- Mapear fuentes y esquemas de datos; validar diccionarios y supuestos de negocio.
+- Definir plan de control de versiones, naming y estructura de carpetas/tableros.
 
-- ¿Qué actividades adicionales realizaría un estudiante ingenioso antes de comenzar a codificar?
+¿Qué libros de códigos de seguimiento y autoevaluación le ayudarán a realizar este trabajo?
+
+- Checklist de calidad de datos (tipos, rangos, duplicados, nulos).
+- Guía de estilo de código/notebooks y convenciones de variables.
+- Lista de validaciones de consistencia entre tablas (claves, integridad referencial).
+- Plantilla de bitácora de experimentos (fecha, cambio, métrica, resultado).
+
+¿Qué actividades adicionales realizaría un estudiante ingenioso antes de comenzar a codificar?
+
+- Hacer un data sketch: columnas clave, relaciones, cardinalidades esperadas.
+- Crear preguntas de negocio y métricas derivadas que se necesitarán.
+- Prototipar queries simples para evaluar volumen y calidad.
+- Establecer entorno reproducible (requirements, env, seeds) y pruebas rápidas de ingestión.
 
 ### PACE: Analyze Stage
 
