@@ -1,4 +1,4 @@
-# Actividad 1: DataFrame
+# Task Actividad 1
 
 ## Resumen de la actividad
 
@@ -88,24 +88,36 @@ TikTok
 
 ---
 
-## 📊 Diccionario de Datos
+## 📋 Recursos y Próximos Pasos
 
-El conjunto de datos contiene información sobre videos de TikTok que han sido etiquetados como afirmaciones u opiniones. A continuación se describe cada variable:
+### Documentos a completar:
 
-| Columna                    | Tipo  | Descripción                                                      |
-| -------------------------- | ----- | ---------------------------------------------------------------- |
-| `#`                        | int   | ID único del video en el sistema de TikTok                       |
-| `claim_status`             | str   | **[TARGET]** Clasificación: "afirmación" u "opinión"             |
-| `video_id`                 | int   | Identificador alfanumérico del video publicado                   |
-| `video_duration_sec`       | int   | Duración del video en segundos                                   |
-| `video_transcription_text` | str   | Transcripción del contenido de audio del video                   |
-| `verified_status`          | str   | Estado de verificación del autor: "verificado" o "no verificado" |
-| `author_ban_status`        | str   | Estado del autor: "activo", "bajo escrutinio" o "baneado"        |
-| `video_view_count`         | float | Total de reproducciones del video                                |
-| `video_like_count`         | float | Total de me gusta recibidos                                      |
-| `video_share_count`        | float | Total de veces compartido                                        |
-| `video_download_count`     | float | Total de descargas                                               |
-| `video_comment_count`      | float | Total de comentarios                                             |
+**1. Documento de Estrategia PACE (Curso 1)**
+
+- Responder preguntas sobre Plan, Analyze, Construct, Execute
+- Documentar decisiones para cada fase
+
+**2. Laboratorio de Proyecto de TikTok (Jupyter Notebook)**
+
+- Importar e inspeccionar datos
+- Organizar datos para análisis exploratorio
+- Escribir código comentado
+
+**3. Resumen Ejecutivo (Curso 1)**
+
+- Resumen de tareas completadas
+- Resultados del análisis de variables
+- Recomendaciones para siguiente fase (modelado predictivo)
+
+### Task del proyecto del curso:
+
+Independientemente del camino que hayas elegido completar, tus objetivos para este proyecto son:
+
+- [ ] Complete las preguntas del documento de estrategia PACE del Curso 1
+- [ ] Responda las preguntas en el archivo del proyecto del cuaderno Jupyter
+- [ ] Completar el trabajo de preparación de codificación en el cuaderno Jupyter del proyecto
+- [ ] Resumir los tipos de columna
+- [ ] Comunicar hallazgos importantes en forma de resumen ejecutivo
 
 ---
 
@@ -129,26 +141,3 @@ Rosie Mae solicita que completes las siguientes tareas de análisis:
 - 🏗️ **Identificación de estructuras de datos** y análisis descriptivo
 - 🔎 **Extracción de información por columna**
 - 🔀 **Transformación de datos** para crear variables significativas
-
----
-
-## 📋 Recursos y Próximos Pasos
-
-### Documentos a completar:
-
-**1. Documento de Estrategia PACE (Curso 1)**
-
-- Responder preguntas sobre Plan, Analyze, Construct, Execute
-- Documentar decisiones para cada fase
-
-**2. Laboratorio de Proyecto de TikTok (Jupyter Notebook)**
-
-- Importar e inspeccionar datos
-- Organizar datos para análisis exploratorio
-- Escribir código comentado
-
-**3. Resumen Ejecutivo (Curso 1)**
-
-- Resumen de tareas completadas
-- Resultados del análisis de variables
-- Recomendaciones para siguiente fase (modelado predictivo)

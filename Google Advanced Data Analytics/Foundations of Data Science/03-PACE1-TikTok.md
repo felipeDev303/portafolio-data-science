@@ -4,16 +4,6 @@
 
 Utilice este documento de estrategia PACE para registrar decisiones y reflexiones a medida que trabaja en este proyecto de fin de curso. Puede usarlo como guía para considerar sus respuestas y reflexiones en las diferentes etapas del proceso de análisis de datos. Además, los documentos de estrategia PACE pueden servir como recurso para proyectos futuros.
 
-## Resumen del proyecto del curso
-
-Independientemente del camino que hayas elegido completar, tus objetivos para este proyecto son:
-
-- [ ] Complete las preguntas del documento de estrategia PACE del Curso 1
-- [ ] Responda las preguntas en el archivo del proyecto del cuaderno Jupyter
-- [ ] Completar el trabajo de preparación de codificación en el cuaderno Jupyter del proyecto
-- [ ] Resumir los tipos de columna
-- [ ] Comunicar hallazgos importantes en forma de resumen ejecutivo
-
 ## Preguntas relevantes para la entrevista
 
 Completar el proyecto de fin de curso te ayudará a responder este tipo de preguntas que suelen formularse durante el proceso de entrevista:
