@@ -33,7 +33,7 @@ Archivos del laboratorio del proyecto de fin de curso disponibles en la carpeta 
 
 Nota: Haga clic en el botón Abrir laboratorio para iniciar el laboratorio del proyecto de fin de curso. Una vez que haya completado esta actividad, haga clic en Siguiente para continuar con la lectura del ejemplo.
 
-instrucciones de la actividad (de laboratorio):
+**Instrucciones de la actividad (de laboratorio):**
 
 El Jupyter Notebook se guardará automáticamente a medida que trabajes, o puedes guardarlo manualmente haciendo clic en el botón Guardar y comprobar o seleccionando Guardar y comprobar en el menú Archivo .
 
