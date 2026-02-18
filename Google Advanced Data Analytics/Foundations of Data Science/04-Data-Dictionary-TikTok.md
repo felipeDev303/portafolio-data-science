@@ -29,7 +29,7 @@ El conjunto de datos contiene información sobre videos de TikTok que han sido e
 
 ## Acceda al laboratorio del proyecto de fin de curso
 
-Recuerda que puedes acceder y descargar los datos de cualquier actividad del cuaderno Jupyter desde el propio cuaderno navegando hasta el menú desplegable Lab Files en la parte superior de la página, haciendo clic en la carpeta /home/jovyan/work, seleccionando el archivo de datos relevante y haciendo clic en Download.
+Archivos del laboratorio del proyecto de fin de curso disponibles en la carpeta [Files](../Foundations%20of%20Data%20Science/Files/).
 
 Nota: Haga clic en el botón Abrir laboratorio para iniciar el laboratorio del proyecto de fin de curso. Una vez que haya completado esta actividad, haga clic en Siguiente para continuar con la lectura del ejemplo.
 
