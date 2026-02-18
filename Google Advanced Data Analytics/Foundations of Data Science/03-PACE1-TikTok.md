@@ -8,7 +8,7 @@ Utilice este documento de estrategia PACE para registrar decisiones y reflexione
 
 Completar el proyecto de fin de curso te ayudará a responder este tipo de preguntas que suelen formularse durante el proceso de entrevista:
 
-### Describe los pasos que seguirías para limpiar y transformar un conjunto de datos no estructurados.
+### Describe los pasos que seguirías para limpiar y transformar un conjunto de datos no estructurados
 
 - Definir objetivo y métricas de calidad de datos.
 - Normalizar formatos (fechas, texto en minúsculas, codificación UTF-8).

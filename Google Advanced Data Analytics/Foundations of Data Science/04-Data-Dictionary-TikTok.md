@@ -10,20 +10,20 @@ El conjunto de datos contiene
 
 El conjunto de datos contiene información sobre videos de TikTok que han sido etiquetados como afirmaciones u opiniones. A continuación se describe cada variable:
 
-| Columna                    | Tipo  | Descripción                                                      |
-| -------------------------- | ----- | ---------------------------------------------------------------- |
-| `#`                        | int   | ID único del video en el sistema de TikTok                       |
-| `claim_status`             | str   | **[TARGET]** Clasificación: "afirmación" u "opinión"             |
-| `video_id`                 | int   | Identificador alfanumérico del video publicado                   |
-| `video_duration_sec`       | int   | Duración del video en segundos                                   |
-| `video_transcription_text` | str   | Transcripción del contenido de audio del video                   |
-| `verified_status`          | str   | Estado de verificación del autor: "verificado" o "no verificado" |
-| `author_ban_status`        | str   | Estado del autor: "activo", "bajo escrutinio" o "baneado"        |
-| `video_view_count`         | float | Total de reproducciones del video                                |
-| `video_like_count`         | float | Total de me gusta recibidos                                      |
-| `video_share_count`        | float | Total de veces compartido                                        |
-| `video_download_count`     | float | Total de descargas                                               |
-| `video_comment_count`      | float | Total de comentarios                                             |
+| Columna                    | Tipo  | Descripción                                                                                                                                                                                                                                                                                                |
+| -------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#`                        | int   | Número asignado por TikTok al vídeo con reclamación/opinión.                                                                                                                                                                                                                                               |
+| `claim_status`             | obj   | Si el vídeo publicado ha sido identificado como una "opinión" o una "reivindicación" En este conjunto de datos, una "opinión" se refiere a la creencia o pensamiento personal de un individuo o grupo. Una "afirmación" se refiere a una información sin fuentes o procedente de una fuente no verificada. |
+| `video_id`                 | int   | Número de identificación aleatorio asignado al vídeo en el momento de su publicación en TikTok.publicado                                                                                                                                                                                                   |
+| `video_duration_sec`       | int   | Duración del video en segundos                                                                                                                                                                                                                                                                             |
+| `video_transcription_text` | obj   | Transcripción del contenido de audio del video                                                                                                                                                                                                                                                             |
+| `verified_status`          | obj   | Indica el estado del usuario de TikTok que publicó el video en términos de su verificación, ya sea "verificado" o "no verificado"                                                                                                                                                                          |
+| `author_ban_status`        | obj   | Indica el estado del usuario de TikTok que publicó el vídeo en cuanto a sus permisos: "activo", "bajo verificación" o "baneado".                                                                                                                                                                           |
+| `video_view_count`         | float | Total de reproducciones del video                                                                                                                                                                                                                                                                          |
+| `video_like_count`         | float | Total de me gusta recibidos                                                                                                                                                                                                                                                                                |
+| `video_share_count`        | float | Total de veces compartido                                                                                                                                                                                                                                                                                  |
+| `video_download_count`     | float | Total de descargas                                                                                                                                                                                                                                                                                         |
+| `video_comment_count`      | float | Total de comentarios                                                                                                                                                                                                                                                                                       |
 
 ---
 
